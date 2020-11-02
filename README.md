@@ -1,5 +1,9 @@
 # Управления Курсами | Course Management
 
+[RU] Система управления курсами и уроками.
+
+[EN] Online Course Management System 
+
 ## Usage 
 
 ```bash
