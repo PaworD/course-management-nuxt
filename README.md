@@ -1,4 +1,4 @@
-# course-list
+# Управления Курсами | Course Management
 
 ## Build Setup
 
